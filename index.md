@@ -1,3 +1,7 @@
+<head>
+    <title>Portfolio for Christopher G. Prince</title>
+</head>
+
 ## Some of the apps I've worked on professionally
 
 [ForeFlight](https://apps.apple.com/us/app/foreflight-mobile-efb/id333252638)
