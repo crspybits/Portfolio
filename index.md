@@ -41,9 +41,9 @@ Petunia - solo-developed pet health records iPad app. Enabled data entry and gen
 
 ## Blog Articles
 
-[Load Testing Adventures With SyncServerII: mySQL Locking and Deadlocks](https://crspybits.medium.com/load-testing-adventures-with-syncserverii-mysql-locking-and-deadlocks-455a57c63ab6?postPublishedType=initial) (June 2019)
+[Apple Sign-In: Custom Servers and an Expiry Conundrum](https://medium.com/better-programming/apple-sign-in-custom-servers-and-an-expiry-conundrum-d1ad63223870) (October 2019)
 
-[Apple Sign-In: Custom Servers and an Expiry Conundrum](https://medium.com/better-programming/apple-sign-in-custom-servers-and-an-expiry-conundrum-d1ad63223870)  (October 2019)
+[Load Testing Adventures With SyncServerII: mySQL Locking and Deadlocks](https://crspybits.medium.com/load-testing-adventures-with-syncserverii-mysql-locking-and-deadlocks-455a57c63ab6?postPublishedType=initial) (June 2019)
 
 [The Google OAuth Review Process](https://crspybits.medium.com/the-google-oauth-review-process-9d1b05f53aea)  (March 2019)
 
