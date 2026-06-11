@@ -47,7 +47,7 @@ Petunia - solo-developed pet health records iPad app. Enabled data entry and gen
 
 [The Google OAuth Review Process](https://crspybits.medium.com/the-google-oauth-review-process-9d1b05f53aea)  (March 2019)
 
-[Server-side Swift](https://crspybits.github.io/SyncServerII/presentations/DenverSwift-10-25-18/ServerSideSwift.pdf) (Denver Swift Developers Group, October 2018)
+[Server-side Swift](https://crspybits.github.io/SyncServerII/presentations/DenverSwift-10-25-18/ServerSideSwift.pdf)  (Denver Swift Developers Group, October 2018)
 
 [Privacy + Self-Ownership in Social Media: SyncServerII](https://crspybits.medium.com/privacy-self-ownership-in-social-media-syncserverii-7b4a920e8f31) (August 2018)
 
