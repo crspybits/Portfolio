@@ -25,7 +25,7 @@ Solo-developed in Swift, RealityKit, ARKit, and SwiftUI targeting both iOS and v
 Open-source design: [https://github.com/crspybits/ModularCatTree](https://github.com/crspybits/ModularCatTree)
 
 Neebla (App Store, 2019–2021)
-Solo-developed user-owned data social media platform for sharing albums and media with fine-grained permissions; built in Swift, SwiftUI, UIKit, Firebase, and APNs. Designed and implemented a custom client-server data synchronization engine in Swift deployed on AWS. 
+Solo-developed user-owned data social media platform for sharing albums and media with fine-grained permissions; built in Swift, SwiftUI, UIKit, Firebase, and APNs. Designed and implemented a custom client-server data synchronization engine. This server was initially implemented in Node.js, and later migrated to server-side Swift. It was deployed on AWS using Docker containers.
 <br>
 App: [https://github.com/SyncServerII/Neebla](https://github.com/SyncServerII/Neebla)
 <br>
