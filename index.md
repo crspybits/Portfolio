@@ -12,32 +12,42 @@
 
 ## Self-developed apps and SDKs
 
-Swift Concurrency Actor Conditions (May 2026)
+### Woodworking app (September 2026 - current)
+A solo developed wood working app with a client for iOS/iPadOS/MacOS and a server in Rust.
+<br>
+Client technologies: Swift, SwiftUI, MVVM, Nuke (image caching)
+<br>
+Server technologies: Rust, Axum (routing and request handling), Diesel (ORM/database), Google Cloud Storage for storing images, Neon (Postgres managed database), Google Cloud Run, Docker
+
+### Swift Concurrency Actor Conditions (May 2026)
 Enables improved solutions to, for example, readers-writers problems
 <br>
 [https://github.com/crspybits/Conditions](https://github.com/crspybits/Conditions)
 
 [swift-log-file](https://github.com/crspybits/swift-log-file): A [SwiftLog](https://github.com/apple/swift-log) compatible file log handler. 
 
-CatTree / ModularCatTree (Feb 2026–present) — visionOS / AR app.
+### CatTree / ModularCatTree (Feb 2026–present) — visionOS / AR app.
 Solo-developed in Swift, RealityKit, ARKit, and SwiftUI targeting both iOS and visionOS. Features ARKit floor-plane detection, RealityKit entity hierarchy management, spatial drag and tap gestures, ImmersiveSpace integration, and a modular 3D assembly system for placing and configuring a custom cat tree design in the user’s physical space. This is a combination of two interests: Woodworking and software development. I’m building modular wooden cat trees along with the app.
 <br>
 Open-source design: [https://github.com/crspybits/ModularCatTree](https://github.com/crspybits/ModularCatTree)
 
-Neebla (App Store, 2019–2021)
+### Neebla (App Store, 2019–2021)
 Solo-developed user-owned data social media platform for sharing albums and media with fine-grained permissions; built in Swift, SwiftUI, UIKit, Firebase, and APNs. Designed and implemented a custom client-server data synchronization engine. This server was initially implemented in Node.js, and later migrated to server-side Swift. It was deployed on AWS using Docker containers.
 <br>
 App: [https://github.com/SyncServerII/Neebla](https://github.com/SyncServerII/Neebla)
 <br>
 Server: [https://github.com/SyncServerII/ServerMain](https://github.com/SyncServerII/ServerMain) 
 
-WhatDidILike — iOS app (App Store, 2013–2020). Solo-developed in Swift and Objective-C; enabled users to track and remember meals they loved at restaurants.
+### WhatDidILike — iOS app (App Store, 2013–2020).
+Solo-developed in Swift and Objective-C; enabled users to track and remember meals they loved at restaurants.
 <br>
 [https://github.com/crspybits/WhatDidILike](https://github.com/crspybits/WhatDidILike)
 
-Catsy (App Store, 2015+) — solo-developed iOS game designed for cats to play; built in Swift, UIKit, and SpriteKit, with animated sprite characters moving along motion paths on screen to entertain and engage cats.
+### Catsy (App Store, 2015+)
+Solo-developed iOS game designed for cats to play; built in Swift, UIKit, and SpriteKit, with animated sprite characters moving along motion paths on screen to entertain and engage cats.
 
-Petunia - solo-developed pet health records iPad app. Enabled data entry and generating PDF reports from those records.
+### Petunia
+Solo-developed pet health records iPad app. Enabled data entry and generating PDF reports from those records.
 
 ## Blog Articles
 
