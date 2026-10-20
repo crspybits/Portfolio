@@ -15,7 +15,7 @@
 ### Woodworking app (September 2026 - current)
 A solo developed wood working app with a client for iOS/iPadOS/MacOS and a server in Rust.
 <br>
-<em>Client technologies</em>: Swift, SwiftUI, MVVM, SwiftData (local database), Nuke (image caching)
+<em>Client technologies</em>: iOS, MacOS, iPadOS, Swift, SwiftUI, MVVM, SwiftData (local database), Nuke (image caching)
 <br>
 <em>Server technologies</em>: Rust, Axum (routing and request handling), Diesel (ORM/database), Google Cloud Storage (image storage), Neon (Postgres managed database), Google Cloud Run, Docker
 
