@@ -12,7 +12,7 @@
 
 ## Self-developed apps and SDKs
 
-### Woodworking app (September 2026 - current)
+### Woodworking client app and server (September 2026 - current)
 A solo developed wood working app with a client for iOS/iPadOS/MacOS and a server in Rust.
 <br>
 <em>Client technologies</em>: iOS, MacOS, iPadOS, Swift, SwiftUI, MVVM, SwiftData (local database), Nuke (image caching)
