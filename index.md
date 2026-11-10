@@ -17,7 +17,7 @@ A solo developed wood working app with a client for iOS/iPadOS/MacOS and a serve
 <br>
 <em>Client technologies</em>: iOS, MacOS, iPadOS, Swift, SwiftUI, MVVM, SwiftData (local database), Nuke (image caching)
 <br>
-<em>Server technologies</em>: Rust, Axum (routing and request handling), Diesel (ORM/database), Google Cloud Storage (image storage), Neon (Postgres managed database), Google Cloud Run, Docker
+<em>Server technologies</em>: Rust, Axum (routing and request handling), Diesel (ORM/database), Google Cloud Storage (image storage), Neon (Postgres managed database), Google Cloud Run, Google Sign In (authentication), Docker
 
 ### Swift Concurrency Actor Conditions (May 2026)
 Enables improved solutions to, for example, readers-writers problems
