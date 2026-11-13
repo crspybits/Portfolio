@@ -18,7 +18,12 @@ A solo developed wood working app with a client for iOS/iPadOS/MacOS and a serve
 <em>Client technologies</em>: iOS, MacOS, iPadOS, Swift, SwiftUI, MVVM, SwiftData (local database), Nuke (image caching)
 <br>
 <em>Server technologies</em>: Rust, Axum (routing and request handling), Diesel (ORM/database), Google Cloud Storage (image storage), Neon (Postgres managed database), Google Cloud Run (server hosting), Google Sign In (authentication), Docker
-
+<em>Automated tests for client</em>: 
+a) Unit tests
+b. Custom automated UI Testing driven by a Claude slash command and agent, and Python scripts, that reports a prioritized list of changes to screens from a baseline. Tests run the app against a server and database running under Docker.
+<em>Automated tests for server</em>: 
+a) Unit tests
+b. Endpoint integration tests. Python tests running against server and database running under Docker.
 ### Swift Concurrency Actor Conditions (May 2026)
 Enables improved solutions to, for example, readers-writers problems
 <br>
