@@ -29,6 +29,7 @@ Enables improved solutions to, for example, readers-writers problems
 <br>
 [https://github.com/crspybits/Conditions](https://github.com/crspybits/Conditions)
 
+### swift-log-file (2021 - 2022)
 [swift-log-file](https://github.com/crspybits/swift-log-file): A [SwiftLog](https://github.com/apple/swift-log) compatible file log handler. 
 
 ### CatTree / ModularCatTree (Feb 2026–present) — visionOS / AR app.
